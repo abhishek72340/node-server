@@ -1,1 +1,9 @@
 <h2>MVC Pattern, Node.Js Server</h2>
+
+.env key:
+PORT 
+DB_URI 
+JWT_SECRET
+JWT_EXPIRY 
+FORGOT_PASSWORD_EXPIRY 
+COOKIE_TIME 
